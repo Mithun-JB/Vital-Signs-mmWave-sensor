@@ -1,0 +1,1 @@
+Contains the model of the Vital Signs measurement.
