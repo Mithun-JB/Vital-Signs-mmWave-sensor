@@ -1,0 +1,1 @@
+Contains the XM112 guid
